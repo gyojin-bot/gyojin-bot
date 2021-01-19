@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  
  [![gyojin's github stats](https://github-readme-stats.vercel.app/api?username=gyojin-bot)](https://github.com/anuraghazra/github-readme-stats)
 
-# Software Engineer
+### Software Engineer
 
-## 👏 Python
+#### 👏 Python
 - Algorithm
 
-## 👏 C
+#### 👏 C
 1. Data Structure
 - B-Tree, B+Tree
 - Malloc Lab (implicit, explicit)
