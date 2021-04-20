@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 * pintOS
 
 ## Stack
-C
+* C
 <br>
-React - Hooks, Redux
+* React - Hooks, Redux
 <br>
-Python - Algorithm
+* Python - Algorithm
 <br>
-AWS - EC2 remote server
+* AWS - EC2 remote server
