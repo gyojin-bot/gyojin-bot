@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
 ## Stack
 C
+<br>
 React - Hooks, Redux
+<br>
 Python - Algorithm
+<br>
 AWS - EC2 remote server
