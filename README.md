@@ -28,10 +28,7 @@ Here are some ideas to get you started:
 * pintOS
 
 ## Stack
-* C
-<br>
-* React - Hooks, Redux
-<br>
-* Python - Algorithm
-<br>
+* C<br>
+* React - Hooks, Redux<br>
+* Python - Algorithm<br>
 * AWS - EC2 remote server
