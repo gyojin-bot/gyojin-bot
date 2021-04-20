@@ -19,10 +19,23 @@ Here are some ideas to get you started:
 
 ### Software Engineer
 
-#### 👏 Python
-- Algorithm
+## Education
+#### SW사관학교 정글
+* B-Tree & B+Tree
+ - C언어 기초, 포인터 사용법 학습
+* Malloc Lab
+ - 묵시적 가용리스트, 명시적 가용리스트를 사용한 메모리 할당기 구현
+ - 내부단편화, 외부단편화 개념 이해
+ - first-fit, next-fit, best-fit 등 메모리 블록 배치 방식 이해
+* tiny 웹서버
+ - HTTP 요청/응답 통신 이해
+* pintOS
+ - OS 스케줄러, VM, Filesystem 이해
 
-#### 👏 C
-1. Data Structure
-- B-Tree, B+Tree
-- Malloc Lab (implicit, explicit)
+## Stack
+#### React
+* Hooks, Redux
+#### Python
+* Algorithm
+#### AWS
+* EC2 remote server
